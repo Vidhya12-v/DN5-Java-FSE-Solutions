@@ -1,4 +1,4 @@
-package singletonpattern;
+package DesignPatterns.SingletonPattern;
 
 public class TestLogger {
 
