@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+           http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Exercise 5: IoC Container - Define Beans -->
+
+    <!-- Bean for BookRepository -->
+    <bean id="bookRepository" class="com.library.BookRepository"/>
+
+    <!-- Exercise 2 & 7: Dependency Injection -->
+    <!-- Constructor Injection -->
+    <bean id="bookService" class="com.library.BookService">
+        <constructor-arg ref="bookRepository"/>
+        <!-- Setter Injection (uncomment below to use setter instead) -->
+        <!-- <property name="bookRepository" ref="bookRepository"/> -->
+    </bean>
+
+</beans>
