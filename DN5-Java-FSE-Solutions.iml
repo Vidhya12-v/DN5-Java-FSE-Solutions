@@ -6,6 +6,12 @@
       <sourceFolder url="file://$MODULE_DIR$/EngineeringConcepts/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/JUnitMockito/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SLF4J/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SpringCoreAndMaven/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SpringCoreAndMaven/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/SpringDataJPA/QuickExample/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SpringDataJPA/QuickExample/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SpringDataJPA/QuickExample/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/SpringDataJPA/src/main/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
