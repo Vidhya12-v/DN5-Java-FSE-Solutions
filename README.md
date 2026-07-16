@@ -66,6 +66,14 @@ This repository contains the solutions for the mandatory hands-on exercises comp
 
 ---
 
+### Week 4
+
+#### Microservices with Spring Boot 3 and Spring Cloud
+- Account Microservice (GET `/accounts/{number}`)
+- Loan Microservice (GET `/loans/{number}`)
+
+---
+
 ## 📁 Note
 - Source code is organized topic-wise inside the repository
 - Output screenshots are included in respective `OutputScreenshots` folders
@@ -74,6 +82,7 @@ This repository contains the solutions for the mandatory hands-on exercises comp
   - **Spring Core & Maven** module for Spring configuration and Dependency Injection exercises.
   - **Spring Data JPA** module for JPA, Hibernate, and database operation exercises.
   - **Spring REST** module for REST API and JWT Authentication exercises.
+  - **Microservices** module for Account and Loan microservices.
 
 ---
 
@@ -81,6 +90,7 @@ This repository contains the solutions for the mandatory hands-on exercises comp
 ✅ Week 1 Hands-on Exercises Completed
 ✅ Week 2 Hands-on Exercises Completed
 ✅ Week 3 Hands-on Exercises Completed
+✅ Week 4 Hands-on Exercises Completed
 
 ---
 
