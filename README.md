@@ -54,6 +54,18 @@ This repository contains the solutions for the mandatory hands-on exercises comp
 
 ---
 
+### Week 3
+
+#### Spring REST using Spring Boot 3
+- Create Spring Web Project using Maven
+- Load Country from XML
+- Hello World RESTful Web Service
+- Country Web Service
+- Get Country by Code
+- JWT Authentication Service
+
+---
+
 ## 📁 Note
 - Source code is organized topic-wise inside the repository
 - Output screenshots are included in respective `OutputScreenshots` folders
@@ -61,11 +73,14 @@ This repository contains the solutions for the mandatory hands-on exercises comp
 - Spring-based hands-on exercises are categorized into separate modules:
   - **Spring Core & Maven** module for Spring configuration and Dependency Injection exercises.
   - **Spring Data JPA** module for JPA, Hibernate, and database operation exercises.
+  - **Spring REST** module for REST API and JWT Authentication exercises.
+
 ---
 
 ## ✅ Status
 ✅ Week 1 Hands-on Exercises Completed
 ✅ Week 2 Hands-on Exercises Completed
+✅ Week 3 Hands-on Exercises Completed
 
 ---
 
