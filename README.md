@@ -74,6 +74,22 @@ This repository contains the solutions for the mandatory hands-on exercises comp
 
 ---
 
+### Week 5
+
+#### React Hands-on Exercises
+- Exercise 1: myfirstreact
+- Exercise 2: StudentApp (Multiple Components)
+- Exercise 3: scorecalculatorapp (Function Component with CSS)
+- Exercise 4: blogapp (Lifecycle Hooks - componentDidMount)
+- Exercise 5: Cohort Dashboard (CSS Modules)
+- Exercise 9: cricketapp (ES6 Features - map, filter, destructuring, spread)
+- Exercise 10: officespacerentalapp (JSX and Inline CSS)
+- Exercise 11: eventexamplesapp (Event Handling)
+- Exercise 12: ticketbookingapp (Conditional Rendering)
+- Exercise 13: bloggerapp (Conditional Rendering with Lists)
+
+---
+
 ## 📁 Note
 - Source code is organized topic-wise inside the repository
 - Output screenshots are included in respective `OutputScreenshots` folders
@@ -83,14 +99,16 @@ This repository contains the solutions for the mandatory hands-on exercises comp
   - **Spring Data JPA** module for JPA, Hibernate, and database operation exercises.
   - **Spring REST** module for REST API and JWT Authentication exercises.
   - **Microservices** module for Account and Loan microservices.
+  - **React** module for React Hands-on Exercises.
 
 ---
 
 ## ✅ Status
-✅ Week 1 Hands-on Exercises Completed                  
-✅ Week 2 Hands-on Exercises Completed         
-✅ Week 3 Hands-on Exercises Completed           
-✅ Week 4 Hands-on Exercises Completed           
+✅ Week 1 Hands-on Exercises Completed
+✅ Week 2 Hands-on Exercises Completed
+✅ Week 3 Hands-on Exercises Completed
+✅ Week 4 Hands-on Exercises Completed
+✅ Week 5 Hands-on Exercises Completed
 
 ---
 
