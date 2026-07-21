@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/exercise01_myfirstreact" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise02_studentapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise03_scorecalculatorapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise04_blogapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise05_cohortdashboard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise09_cricketapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise10_officespacerentalapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise11_eventexamplesapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise12_ticketbookingapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise13_bloggerapp" vcs="Git" />
+  </component>
+</project>
