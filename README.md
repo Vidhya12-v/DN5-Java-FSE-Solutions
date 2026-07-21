@@ -104,11 +104,11 @@ This repository contains the solutions for the mandatory hands-on exercises comp
 ---
 
 ## ✅ Status
-✅ Week 1 Hands-on Exercises Completed
-✅ Week 2 Hands-on Exercises Completed
-✅ Week 3 Hands-on Exercises Completed
-✅ Week 4 Hands-on Exercises Completed
-✅ Week 5 Hands-on Exercises Completed
+✅ Week 1 Hands-on Exercises Completed   
+✅ Week 2 Hands-on Exercises Completed   
+✅ Week 3 Hands-on Exercises Completed   
+✅ Week 4 Hands-on Exercises Completed  
+✅ Week 5 Hands-on Exercises Completed  
 
 ---
 
